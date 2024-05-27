@@ -1,0 +1,16 @@
+{
+  "name": "assingment-node-js",
+  "version": "1.0.0",
+  "description": "practice with nodejs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javaScript",
+    "backend"
+  ],
+  "author": "jorge mario mora",
+  "license": "ISC"
+}
